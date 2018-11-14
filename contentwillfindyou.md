@@ -82,3 +82,10 @@ date: 2018-11-15
 #
 
 4. Welche neue Formen des Lernens werden durch digitale Technik und Vernetzung in der Weiterbildung möglich und wie gehen wir kreativ mit ihnen um?
+
+# Danke!
+
+#
+
+URL der Präsentation:
+<https://heinzwittenbrink.github.io/slides-contenwillfindyou/>
