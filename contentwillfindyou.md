@@ -89,3 +89,6 @@ date: 2018-11-15
 
 URL der Präsentation:
 <https://heinzwittenbrink.github.io/slides-contenwillfindyou/>
+
+Manuskript:
+<https://github.com/heinzwittenbrink/slides-contenwillfindyou/blob/gh-pages/weiterbildungstag.md>
